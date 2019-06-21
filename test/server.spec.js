@@ -39,5 +39,4 @@ describe('loopback server', function() {
         done();
       });
   });
-
-})
+});
